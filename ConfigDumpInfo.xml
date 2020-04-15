@@ -5,8 +5,8 @@
 		<Metadata name="CommonForm.CKEditor.Form" id="1dab8c09-3bef-4b3b-b315-5f7108ac6a8c.0" configVersion="0b791acfa71f2f41b0eb30dcb19cc39f00000000"/>
 		<Metadata name="CommonModule.CKEditor" id="ccb0c357-dcf5-497d-aa9f-934e695d794c" configVersion="996189fc50901440b707b1d1d5f44eda00000000"/>
 		<Metadata name="CommonModule.CKEditor.Module" id="ccb0c357-dcf5-497d-aa9f-934e695d794c.0" configVersion="05b28cab5ec9c54fab9667baf7c2e16800000000"/>
-		<Metadata name="CommonModule.CKEditorКлиент" id="d2e0bfb7-8c36-4faa-86bd-9261719cf30c" configVersion="e053e765146a6f4ca84d64090c173c9d00000000"/>
-		<Metadata name="CommonModule.CKEditorКлиент.Module" id="d2e0bfb7-8c36-4faa-86bd-9261719cf30c.0" configVersion="cca26d613081c14784d2346d6d67f2f100000000"/>
+		<Metadata name="CommonModule.CKEditorКлиент" id="d2e0bfb7-8c36-4faa-86bd-9261719cf30c" configVersion="1dacf142ccdb3b4fbbee58491ab0909300000000"/>
+		<Metadata name="CommonModule.CKEditorКлиент.Module" id="d2e0bfb7-8c36-4faa-86bd-9261719cf30c.0" configVersion="db40ccc2396a4d4d802cfa9edae906da00000000"/>
 		<Metadata name="Configuration.CKEditor" id="0aab8beb-58dd-455e-97fb-82ef7c8a08f0" configVersion="a842cf4080fd2b488b46dff808c00d2900000000"/>
 		<Metadata name="Language.Русский" id="efbd1834-2f53-4888-883b-3b6fb37bcbcd" configVersion="e0bda592dd45e947933306e278cebf9500000000"/>
 		<Metadata name="Subsystem.CKEditor" id="327d5f61-74dc-435b-a870-9af563614ff3" configVersion="62430126096b3a49afb3a75f65e510e800000000"/>
